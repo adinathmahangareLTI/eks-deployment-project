@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hi This is Sanjaya Kumar Verma. We are working on Ci/Cd projecti hello.</h1>
-    <p>Please fill in this form to create an account. Adinath Mahangare</p>
+    <h1>Hi This is Adinath Mahangare. We are working on Ci/Cd projecti hello.</h1>
+    <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
