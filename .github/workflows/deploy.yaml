@@ -36,7 +36,7 @@ jobs:
 
     - name: Build, tag and Push
       run: 
-        docker build -t eksdeployment .
+        docker build -t eksdeployment
         docker tag eksdeployment:latest 241533119861.dkr.ecr.ap-south-1.amazonaws.com/eksdeployment:latest
         docker push 241533119861.dkr.ecr.ap-south-1.amazonaws.com/eksdeployment:latest
 
