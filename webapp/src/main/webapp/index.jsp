@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hi This is Adinath Mahangare. We are working on Ci/Cd projecti hello.</h1>
+    <h1>Hi This is Adinath Mahangare.</h1>
     <p>Please fill AWS Account information</p>
     <hr>
      
